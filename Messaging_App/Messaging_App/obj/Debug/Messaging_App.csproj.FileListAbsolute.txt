@@ -1,0 +1,11 @@
+C:\Users\Kübra\source\GitHub\Messaging_App\Messaging_App\Messaging_App\bin\Debug\Messaging_App.exe.config
+C:\Users\Kübra\source\GitHub\Messaging_App\Messaging_App\Messaging_App\bin\Debug\Messaging_App.exe
+C:\Users\Kübra\source\GitHub\Messaging_App\Messaging_App\Messaging_App\bin\Debug\Messaging_App.pdb
+C:\Users\Kübra\source\GitHub\Messaging_App\Messaging_App\Messaging_App\obj\Debug\Messaging_App.csproj.AssemblyReference.cache
+C:\Users\Kübra\source\GitHub\Messaging_App\Messaging_App\Messaging_App\obj\Debug\Messaging_App.Form1.resources
+C:\Users\Kübra\source\GitHub\Messaging_App\Messaging_App\Messaging_App\obj\Debug\Messaging_App.Form2.resources
+C:\Users\Kübra\source\GitHub\Messaging_App\Messaging_App\Messaging_App\obj\Debug\Messaging_App.Properties.Resources.resources
+C:\Users\Kübra\source\GitHub\Messaging_App\Messaging_App\Messaging_App\obj\Debug\Messaging_App.csproj.GenerateResource.cache
+C:\Users\Kübra\source\GitHub\Messaging_App\Messaging_App\Messaging_App\obj\Debug\Messaging_App.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\GitHub\Messaging_App\Messaging_App\Messaging_App\obj\Debug\Messaging_App.exe
+C:\Users\Kübra\source\GitHub\Messaging_App\Messaging_App\Messaging_App\obj\Debug\Messaging_App.pdb
